@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineer, Outdoor Geek, and All Around Nerd
 
 <!--
 **ben8622/ben8622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
