@@ -1,4 +1,4 @@
-### Software Engineer and Tree Hugger 
+### Software Engineer
 - As of right now I am interning as a Web Application Devloper
 
 <!--
