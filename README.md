@@ -1,5 +1,4 @@
 ### Software Engineer
-- As of right now I am interning as a Web Application Devloper
 
 <!--
 **ben8622/ben8622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
