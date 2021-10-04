@@ -1,7 +1,7 @@
 # Software Engineer and Future Robotics Engineer 🤖
 - 🏫 University of Texas, at Arlington - Computer Science  
 - 🐍 Avid Pythoneer  
-- 🔑 Currently project is an advanced penetration testing drone
+- 🔑 Current project is an advanced penetration testing drone
 
 Like what you see? I'm always open to new opportunities, you can reach me on [LinkedIn](https://www.linkedin.com/in/benjamin-j-knight/)!
 
