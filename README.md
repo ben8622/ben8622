@@ -1,4 +1,4 @@
-# Software Engineer and Future Robotics Engineer 🤖
+# Software Engineer and Learner for Life 🤖
 - 🏫 University of Texas, at Arlington - Computer Science  
 - 🐍 Avid Pythoneer  
 - 🔑 Current project is an advanced penetration testing drone
