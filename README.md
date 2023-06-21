@@ -1,7 +1,11 @@
 # Software Engineer
-- 🏫 University of Texas, at Arlington - Computer Science  
+- 🏫 University of Texas, at Arlington 2022 - Computer Science  
 - 🐍 Avid Pythoneer  
-- 🔑 Current project is an advanced penetration testing drone
+- 🔑 Current project is a personal full stack website.
+  - Front end in React
+  - Backend in Spring Boot
+  - Self hosted in my own home on a Raspberry Pi cluster
+  - Will be a portfolio and blog with future plans to integrate home assistant
 
 Like what you see? I'm always open to new opportunities, you can reach me on [LinkedIn](https://www.linkedin.com/in/benjamin-j-knight/)!
 
